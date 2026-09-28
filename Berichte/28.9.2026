@@ -5,3 +5,9 @@ Name: David Weinberger & Lukas Haselberger
 Fach: ITSE-Labor   
 Datum: 28.9.2026
 
+
+## Angabe
+Red  Team = Angreifer
+
+Erstelle ein bash Script das mehrere Dateinamen als Argumente akzeptiert und diese Dateien nach der von Ryuk angewendeten Strategie verschlüsselt. 
+Verwende `openssl`.
